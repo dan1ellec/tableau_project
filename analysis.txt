@@ -1,0 +1,75 @@
+Analysis
+
+The project explores the use of the Citi Bike program in Jersey City, New Jersey. The program launched in Jersey City on September 21, 2015, with 350 bikes at 35 stations (Furfaro, 2015). Jersey City has now increased to 50 stations (Citigroup Inc.). The data has been obtained from the Citi Bike System Data webpage (Citigroup Inc.). New Jersey data was chosen as its comparatively smaller magnitude to the New York City data means that all available records could be explored in this project. 
+
+The project begins with a dynamic map that shows how each station's popularity changes over time (by month and year). The map is in two parts as it displays both the starting station frequency and the ending station frequency. The project then considers the effect of COVID-19 on the program and its usership, exploring any changes that have occurred and considering possible explanations for these changes. The second portion of this project will explore who uses Citi Bike and how they use the program. Together, these two topics will combine to provide insight into current Citi Bike trends and highlight areas that need to be considered for the future of the program.
+
+The data runs from September 2015 to March 2021. Therefore, when looking at yearly data it must be taken into consideration that 2015 and 2021 only include 3 months of data, and are therefore not suitable to include in comparative yearly trend analysis.
+
+
+Dynamic Maps
+
+The maps indicate that Grove Street PATH is consistently the most used Citi Bike station, both for beginning and ending a journey. This bike station is located right next to the Grove Street PATH train station and is therefore useful for those who need transportation to and from the train.
+
+The most frequently used bike stations appear to be in the post code 07302 which takes up most of the Downtown area. This is explored further by highlighting the ten most popular starting stations, with nine of these stations in the Downtown area. The only station not within the 07302 post code is Sip Ave, but this station is near the Journal Square PATH station. An additional map layer also shows that the majority of bike stations are located within the most affluent area, where the highest household income is recorded. Nine of the top ten stations are located here and the stations are more frequent and more closely grouped in this region.
+
+It would therefore be worthwhile considering an increase in the number of stations outside the 07302 area. More frequent and accessible stations may enable participation for more people who currently don’t have the resources available to them.
+
+A characteristic of the end station map that is worth noting is that some users ended their journeys across the Hudson in New York. The numbers are extremely small in comparison to other locations so it would be interesting to explore the purpose of the trips that ended in New York. This data should also be utilised to keep track of the bikes so don't get removed from the Jersey City system.
+
+
+The Covid-19 Effect: How has Covid-19 affected Citi Bike Usership
+
+With 2020 a year like no other, how have the circumstances surrounding COVID-19 affected Citi Bike, and how will they continue to affect the program? The data shows 2020 still had the third highest number of total trips recorded per year (336,802 ), however it did not continue the trend which has previously seen the number of trips recorded increase each year.
+
+
+Trips Through the Years
+
+The data shows a seasonal trend where the number of total trips recorded increases yearly. However, this trend does not continue in 2020, with the number of trips decreasing. The most successful month in 2020 (October) does not reach or beat the previous year's maximum, however it does roughly match the 2019 recording. The 2020 minimum (April) is lower than any previous year and is most similar to the beginning of 2016, close to the time the program began in Jersey City. April has also never been the lowest performing month previously, indicating that the effects of COVID-19 may have been the worst in March and April.
+Citi Bike is more frequently used in the Summer months. Unsurprisingly, the number of summer trips in 2020 were less than the two previous years. However, only decreasing by 9.8 % from 2020 indicates that there was still motivation for people to use the bikes in the Summer. Also, surprisingly,  2020 saw an increase in bike usage in Winter. However, this increase is attributed to January and February as when viewing the number of trips in December 2020 alone, these are the lowest December numbers ever recorded. The trips at the beginning of 2020 indicate that Citi Bike usage was increasing before the pandemic came into effect.
+
+
+
+User Type Trends
+
+Citi Bike 'Customers' are participants with a 24-hour pass or 3-day pass. 'Subscribers' are annual Citi Bike members. The data indicates there has consistently been greater Citi Bike use by Subscribers compared to Customers. This stayed true in 2020, although the difference between the number of trips by the two user types lessened.
+When considering the data from 2016 to 2019, there has been an increase yearly in both Customer and Subscriber trips. During this time period, Subscriber use appears to have increased roughly linearly, while Customer use appears to have increased in a more exponential nature. 2020, however, shows data that doesn't align strongly with the existing trends. 
+A 36% decrease in Subscriber trips from 2019 to 2020 is observed, bringing the number of subscriber trips back to the 2016 rates. Those who use the subscription service of CitiBike would be regular users. These are most likely workers on their daily commute, or students. 2020 saw a dramatic increase in those working from home (Wong, 2020) due to COVID-19. This change would significantly minimise the number of routine Citi Bike users and can be a possible explanation in the reduction of Subscriber trips.
+
+Throughout the duration of the program, it is assumed that the majority of 'Customers' are tourists and visitors with temporary passes. In a time when travel and holidays were greatly minimised in 2020, it was expected that there would be a significant decrease in the number of trips by Customers. Unexpectedly, Customer trips increased 145% from 2019, the greatest yearly increase in Customer trips recorded.
+One possible explanation for the substantial increase in customer trips is that the Citi Bike program was utilised as a socially distanced activity that could break up the monotony of isolation. In fact, reports indicate that bike riding was a popular activity throughout 2020, used as a way to exercise, experience the outdoors and have fun (Strunksy, 2020; see also Bernhard, 2020; Goldbaum, 2020; Russel, 2021;  Weisholtz, 2020).
+This is supported by the data which shows 2020 saw a dramatic increase in average trip duration. This measure had formed a steady trend from Quarter 2 2016 to Quarter 4 2019, indicating the participants were using the bikes in a similar way across the years, most likely for necessary travel. However, the higher average trip duration from the beginning of 2020 indicates that Jersey City users were now using the bikes for leisure in greater numbers than before.
+
+
+Citi Bike User Statistics
+
+Understanding who uses Citi Bike and how they use it is important for informing future decisions about the program. This will ensure the program supports those who use Citi Bike the most and the way they participate. Equally as important will be addressing those who show lower participation rates. The data can inform innovative thinking around ways to increase or enable participation.
+
+The overwhelming majority of Citi Bike users identify as male and this is consistent throughout each year except the data available so far for 2021. The most users in 2021 are classified as unknown. This indicates that the majority of users so far are most likely to be short term Customers rather than Subscribers that register all their information.
+
+
+Who currently uses Citi Bike and How do they use it?
+
+In order to make future plans for Citi Bike, the current usage of the program must be understood. Although there has always been more trips by Subscribers than Customers, the Customer trip numbers have increased noticeably in 2019 and 2020, and, as previously noted, Subscriber trip numbers dropped from 2019 to 2020 as more people began working from home. This indicates that in the current climate there is an opportunity to continue increasing the Customer trip market, while working to address the Subscriber changes. Note, the 2021 data which reference the first three months of 2021, has seen seen more trips by Customers than Subscribers thus far.
+
+Overall, the majority of Citi Bike trips have been by those born between 1980 and 1995. Those born from 1980 to 1990 have consistently taken the most trips with Citi Bike yearly. However, the number of trips by those born between 1990 and 1995 has steadily increased, becoming on par with those born from 1980 to 1985 in 2019, and then recording more trips than that demographic in 2020. 2020 saw a decrease in the number of trips by those born from 1980 to 1985 and 1985 to 1990 by roughly 30,000 trips each.
+
+Interestingly, 2020 saw an increase in bike usage by those born between 1965 and 1970 to 63,444 trips, where 39,708 were recorded for that demographic the year before. This is a dramatic increase, especially in the context of a pandemic. Those born between 1970 and 1975 have then recorded the most usage in the first three months of 2021, already recording more trips than they did in all of 2020. The increase in usage for those born between 1965 and 1975 can be attributed to the increase in Customers and casual use of the Citi Bike program. 
+
+
+When is Citi Bike used?
+
+The overall trend indicates that the greatest number of trips are recorded from Monday through to Friday, but that these trips have a smaller average duration than those on the weekend. However, although the average trip duration increases over the weekends, less trips are taken during these times.
+
+The below graph indicates that Customer usage increases over the weekend, while Subscriber usage decreases. This supports the previously discussed theory that Customers use the service for leisure and therefore take longer trips, attributing to the average trip duration increase over the weekends. Subscribers are understood to mostly use the service for their work commute from Monday to Friday, an idea that is also supported by the data.
+
+More recently, the trend shifted in 2020 as both the number of trips and the average trip duration increased on Saturdays and Sundays. This was the result of a drop in overall Subscriber trips and an increase in Customer trips. The first few months of 2021 has then seen more Customer trips than Subscriber trips.
+
+
+Conclusion
+
+Previously characterised by consistent Subscriber based participation, Citi Bike is now seeing an increase in casual usage by Customers. This coincides with a widespread work from home initiative, meaning less bikes are utilised as part of the work commute. 2020 also saw a cycling boom, with many people rediscovering cycling as an activity, a family outing or a form of exercise. Also, in a time of uncertainty and stress, the benefits of cycling on mental and physical wellbeing would have been paramount to its appeal. As the cycling boom led to a bike shortage, many people who were unable to purchase their own bike, or who preferred the flexibility of a shared system, would have gravitated towards the Citi Bike program. Therefore, in the current climate, ensuring Citi Bike is accessible to those who use ‘Customer’ passes is crucial to the success of the program. This may include extra advertisements about the customer passes, or the creation of cycling guides and routes that participants can follow. These could encourage longer trips that start and end near a bike station, or create scenic tours which showcase certain areas of the city or team up with businesses. They could even be tailored to the participants preferences and experience with cycling. 
+
+It will be important that while encouraging the participation of Customers, the program not neglect Subscribers. Although the number of Subscriber trips has dropped in recent times, Subscribers have still consistently been the majority of participants in previous years. Ensuring that Citi Bike remains an option for participants when they begin the process of returning to work will be important. As the role of Citi Bike in the everyday work commute does generally go hand in hand with public transport, any hesitancy about returning to trains and buses may be an extra challenge. However, even if the process of increasing Subscriber participation proves to be slow, it will be worth the perseverance.
+
+A further suggestion for increasing participation will be to add additional bikes and bike stations to the system, with a focus on areas that are outside the Downtown region. Building up the resources in these areas will give many people who had previously been unable to participate in the program for practical and accessibility reasons the opportunity to take part. It may also be beneficial to implement particular outreach programs to groups in society with low participation rates. An example would be programs that encourage female ridership.
